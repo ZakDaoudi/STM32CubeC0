@@ -1,0 +1,12 @@
+{
+  "name": "framework-stm32cubec0",
+  "title": "STM32Cube",
+  "description": "STM32CubeC0 MCU Firmware Package by ST",
+  "keywords": ["framework", "hal", "stm32c0", "stm32", "st"],
+  "version": "1.4.0",
+  "homepage": "https://www.st.com/en/embedded-software/stm32cubec0.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/STMicroelectronics/STM32CubeC0"
+  }
+}
